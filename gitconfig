@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rafaelramosaraujo@gmail.com
+	name = Rafael Araujo
